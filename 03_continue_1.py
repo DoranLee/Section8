@@ -1,5 +1,6 @@
 '''
     continue : 남은 반복문 코드를 무시하고 바로 다음 반복 회차로 넘어감
+                break, continue는 if와 함께 쓰임
 '''
 
 for i in range(1,101) :
